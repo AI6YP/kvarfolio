@@ -1,2 +1,2 @@
 # kvarfolio
-LED patel
+LED patel for Goryn
